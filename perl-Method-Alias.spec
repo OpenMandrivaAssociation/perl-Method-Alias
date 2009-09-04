@@ -1,6 +1,6 @@
 %define module   Method-Alias
 %define version    1.03
-%define release    %mkrel 2
+%define release    %mkrel 3
 
 Name:       perl-%{module}
 Version:    %{version}
