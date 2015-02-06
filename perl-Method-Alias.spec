@@ -2,7 +2,7 @@
 
 Name:		perl-%{module}
 Version:	1.03
-Release:	5
+Release:	6
 License:	GPL or Artistic
 Group:		Development/Perl
 Summary:	Create method aliases (and do it safely)
