@@ -7,7 +7,7 @@ License:	GPL or Artistic
 Group:		Development/Perl
 Summary:	Create method aliases (and do it safely)
 Source:		http://www.cpan.org/modules/by-module/Method/%{module}-%{version}.tar.gz
-Url:		http://search.cpan.org/dist/%{module}
+Url:		https://search.cpan.org/dist/%{module}
 
 BuildRequires:	perl-devel
 BuildRequires:	perl(File::Spec)
