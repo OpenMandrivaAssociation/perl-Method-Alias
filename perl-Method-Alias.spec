@@ -9,6 +9,7 @@ Summary:	Create method aliases (and do it safely)
 Source:		http://www.cpan.org/modules/by-module/Method/%{module}-%{version}.tar.gz
 Url:		https://search.cpan.org/dist/%{module}
 
+BuildRequires:	make
 BuildRequires:	perl-devel
 BuildRequires:	perl(File::Spec)
 BuildRequires:	perl(Test::More)
